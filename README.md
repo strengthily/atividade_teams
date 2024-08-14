@@ -1,1 +1,1 @@
-programa_das_winx
+programa-das-winx
